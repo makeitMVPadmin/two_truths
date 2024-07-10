@@ -1,0 +1,3 @@
+- I was born in Vancouver.
+- I have a brother.
+- I love to run.
