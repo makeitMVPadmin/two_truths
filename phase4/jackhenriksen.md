@@ -1,0 +1,3 @@
+- I am a cat person
+- I dislike the rain despite living in Seattle
+- I love musicals
